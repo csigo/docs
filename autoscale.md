@@ -1,3 +1,5 @@
+Ths document describes the process how auto scale feature is developed in HTC.
+
 Background
 ==========
 
